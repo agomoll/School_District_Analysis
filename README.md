@@ -20,9 +20,10 @@ To uncover trends and patterns through this analysis, student and school data wa
 Deliverables for the analysis of the school district: 
 
   * A high-level snapshot of the district's key metrics, presented in a table format
+<img src="Resources/district_summary_1.png">
 
-<img src=“Resources/district_summary_1.png”>
-<img src=“Resources/district_summary_2.png”>
+![](https://github.com/agomoll/School_District_Analysis/blob/main/Resources/district_summary_2.png)
+
 
   * An overview of the key metrics for each school, presented in a table format
 
@@ -30,30 +31,32 @@ Tables presenting each of the following metrics:
 
   * Top 5 and bottom 5 performing schools, based on the overall passing rate
 
-<img src=“Resources/top_five_overall_1.png”>
+<img src="Resources/top_five_overall_1.png">
 
-<img src=“Resources/bottom_five_overall_1.png”>
+
+<img src="Resources/bottom_5_overall_1.png">
+
 
   * The average math score received by students in each grade level at each school
 
-<img src=“Resources/avg_math_bygrade_1.png”>
+<img src="Resources/avg_math_bygrade_1.png">
 
   * The average reading score received by students in each grade level at each school
 
-<img src=“Resources/avg_reading_bygrade_1.png”>
+<img src="Resources/avg_reading_bygrade_1.png">
 
 
   * School performance based on the budget per student
 
-<img src=“Resources/school_perf_by_student_budget_1.png”>
+<img src="Resources/school_perf_by_student_budget_1.png">
 
   * School performance based on the school size 
 
-<img src=”Resources/school_perf_by_school_size_1.png”>
+<img src="Resources/school_perf_by_school_size_1.png">
 
   * School performance based on the type of school
 
-<img src=“Resources/school_perf_by_school_type_1.png”>
+<img src="Resources/school_perf_by_school_type_1.png">
 
 
 How is the district summary affected?
